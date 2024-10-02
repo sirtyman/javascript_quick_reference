@@ -1,4 +1,5 @@
 # Purpose
+
 This file constitutes with examples on how to use JavaScript. It is kind of quick JavaScript reference.
 
 # JavaScript reference
